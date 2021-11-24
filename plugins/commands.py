@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("🔰DEPLOY YOURS🔰", url="https://telegra.ph/file/afd7058f259d23e9098fb.jpg"),
+                    InlineKeyboardButton("🤑About Me🤑", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("UPDATE CHANNEL", url="https://t.me/malayalam_movies_update_channel"),
+                    InlineKeyboardButton("Movie Request Group", url="https://t.me/malayalam_movies_group_2")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://telegra.ph/file/afd7058f259d23e9098fb.jpg")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
