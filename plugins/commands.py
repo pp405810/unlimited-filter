@@ -247,8 +247,8 @@ async def help(client, message):
                     InlineKeyboardButton("🤑About Me🤑", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("UPDATE CHANNEL", url="https://t.me/malayalam_movies_update_channel"),
-                    InlineKeyboardButton("Movie Request Group", url="https://t.me/malayalam_movies_group_2")
+                    InlineKeyboardButton("UPDATE CHANNEL", url="https://t.me/malayalam_movies_new_update_channel"),
+                    InlineKeyboardButton("Movie Request Group", url="https://t.me/malayalam_movies_group_new")
                 ]
             ]
         ),
